@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Android,Java. C# .Net**
 
-- 💬 Ask me about **Java. C# .Net**
+- 💬 Ask me about **Java, C, C#, .Net**
+
+- 📫 **burcucukur5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
