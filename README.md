@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burcu</h1>
+<h1 align="center">Hi 👋, I'm Burcu CUKUR</h1>
 <h3 align="center">Android Developer</h3>
 
 - 🔭 I’m currently working on **Android,Java. C# .Net**
