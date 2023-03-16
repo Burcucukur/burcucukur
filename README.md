@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burcu CUKUR</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on **Android,Java. C# .Net**
+- 🔭 I’m currently working on **Android,Java. C# .Net, React Native**
 
-- 💬 Ask me about **Java, C, C#, .Net**
+- 💬 Ask me about **Java, C, C#, .Net, React Native**
 
 - 📫 **burcucukur5@gmail.com**
 
